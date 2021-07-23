@@ -6,6 +6,11 @@ Vessel segmentation is the essential operation of computer-aided diagnosis of op
 # Network Architecture
 ![image](https://github.com/guomugong/VNN/blob/master/vnn_arch.png)
 
+# Training
+1. Download and Compile [Caffe](https://github.com/guomugong/FFIA)
+2. Training data can be augmented by aug_rot.m
+
+
 ## License
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN)
